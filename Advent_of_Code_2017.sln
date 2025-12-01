@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoCUtilities", "AoCUtilitie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_01_Inverse_Captcha", "Day_01_Inverse_Captcha\Day_01_Inverse_Captcha.csproj", "{99773C29-4251-486E-9FFE-7EDBEA3022D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_02_Corruption_Checksum", "Day_02_Corruption_Checksum\Day_02_Corruption_Checksum.csproj", "{3D368E4D-E32D-4CA5-A268-B0F98F2302CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{99773C29-4251-486E-9FFE-7EDBEA3022D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99773C29-4251-486E-9FFE-7EDBEA3022D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99773C29-4251-486E-9FFE-7EDBEA3022D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D368E4D-E32D-4CA5-A268-B0F98F2302CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D368E4D-E32D-4CA5-A268-B0F98F2302CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D368E4D-E32D-4CA5-A268-B0F98F2302CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D368E4D-E32D-4CA5-A268-B0F98F2302CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
